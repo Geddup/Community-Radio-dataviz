@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Support Community Broadcasting</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,  user-scalable=no">
+        <link rel="stylesheet" href="css/main.css">
+        <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+        
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+		<script src="js/d3.v3.js"></script>
+		<script src="js/topojson.v1.min.js"></script>
+
+		<style>
+		path {
+		  fill: #33a7c2;
+		}
+		</style>
+
+    </head>
+
+    <body class="homepage">
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- NAV -->
+        <div class="navbar navbar-fixed-top" id="main-nav">
+            <div class="navbar-inner">
+                <div class="container">
+                    <a class="brand" href="index.html">
+                    <img src="img/radio.jpg" class="desktop-logo">
+                    <h3 class="desktop-tagline1">COMMUNITY BROADCASTING</h3>
+                    <p class="desktop-tagline2">...of the People, by the People, for the People</p>
+                    </a>
+ 	            </div>
+ 	        </div>
+        </div>
+        <!-- /NAV -->
+        <div class="container">
+        <div class="content">
+						
+			<div id="chart1"></div>
+			<div class="title1">
+        		<h3>Australia's Community Broadcasters</h3>
+        		<h4>(Hover to view stations)</h4>
+        	</div>
+
+			<div class="callout1">
+					<p> Every week, 5.2 million listeners tune into Australia's community radio stations. 
+						That's a quarter of the adult population listening to the 362 
+						stations across the land!</p>
+					<p> Now you can do more than listen...</p>
+					
+            <a href="station.php?name=3PBS+-+MELBOURNE" class="btn btn-primary btn-lg active" role="button">Next</a>
+			</div>
+		</div>
+		</div> <!-- /container -->
+
+			<script>
+
+			var width = 960,
+		    	height = 600;
+
+			var div = d3.select("body").append("div")   
+		    	.attr("class", "tooltip")               
+		    	.style("opacity", 0);
+
+			var projection = d3.geo.mercator()
+			    .center([145, -27])
+			    .scale(750)
+
+			var svg = d3.select("#chart1").append("svg")
+			    .attr("width", width)
+			    .attr("height", height);
+
+			var path = d3.geo.path()
+			    .projection(projection);
+
+			var g = svg.append("g");
+
+			d3.json("data/au.json", function(error, au) {
+			
+		    d3.csv("data/community_stations.csv", function(error, data) {
+		        g.selectAll("circle")
+		           .data(data)
+		           .enter()
+		           .append("circle")
+		           .attr("cx", function(d) {
+		                   return projection([d.lon, d.lat])[0];
+		           })
+		           .attr("cy", function(d) {
+		                   return projection([d.lon, d.lat])[1];
+		           })
+		           .attr("r", 4)
+		           .style("fill", "#fff")
+		           .style("stroke", "#d9001b")
+		           .style("stroke-width", 3)
+		           .style("opacity", .2)
+
+				   .on("mouseover", function(d) {						
+					div.transition()
+						.duration(200)
+						.style("opacity", .9);
+					div	.html(d.community + "<br/>" + d.on_air_id)
+						.style("left", (d3.event.pageX) + "px") 
+						.style("top", (d3.event.pageY - 28) + "px");
+					})
+					.on("mouseout", function(d) {
+					div.transition()
+						.duration(500)
+						.style("opacity", 0);
+				});
+		    });
+
+			  g.append("path")
+			      .datum(topojson.feature(au, au.objects.subunits))
+			      .attr("d", path);
+			});
+
+			var zoom = d3.behavior.zoom()
+			    .on("zoom",function() {
+		        	g.attr("transform","translate("+ 
+		        		d3.event.translate.join(",")+")scale("+d3.event.scale+")"); 
+				});
+
+			svg.call(zoom)
+
+			</script>
+
+
+
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <ul class="footer-nav">
+                        <li><a href="https://www.cbaa.org.au"><img src="img/cbaa.jpeg" Alt="CBAA"></a></li>
+                        <li>COPYRIGHT © COMMUNITY BROADCASTING ASSOCIATION OF AUSTRALIA 2014</li> 
+                        <li><a href="https://www.twitter.com/CBAA_"><img src="img/twitter.svg" Alt="Twitter"></a></li>
+                        <li><a href="https://www.facebook.com/CommunityBroadcasting"><img src="img/facebook.svg" Alt="Facebook"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+
+
+        <script src="js/vendor/jquery-1.9.1.js"></script>
+        <script src="js/vendor/bootstrap.min.js"></script>
+
+        <script>  
+			var subjects = ["102.1 fm - ALICE SPRINGS","103.9 triple t - TOWNSVILLE","105.5 ROXFM - ROXBY DOWNS","1ART - CANBERRA","1CMS - CANBERRA","1RPH - CANBERRA","1VFM - TUGGERANONG","1WAY FM - CANBERRA","2AAA - WAGGA WAGGA","2AIR - COFFS HARBOUR","2APH - ALBURY","2ARM - ARMIDALE","2BACR FM - BANKSTOWN","2BAY - BYRON BAY","2BBB - BELLINGEN","2BCB - BATHURST","2BLU - KATOOMBA","2BOB - TAREE","2BR - BRAIDWOOD","2CBD - DEEPWATER","2CCB - ORANGE","2CHR - CESSNOCK","2CHY - COFFS HARBOUR","2CUZ - BOURKE","2DCB - DUBBO","2DRY - BROKEN HILL","2EAR - MORUYA","2GCR - GOULBURN","2GLA - FORSTER","2GLF - LIVERPOOL","2HAY - HAY","2HHH - HORNSBY","2KRR - KANDOS","2LIV - WOLLONGONG","2LVR - PARKES","2MBS - SYDNEY","2MCE - BATHURST","2MCR - CAMPBELLTOWN","2MIA - GRIFFITH","2MTM FM - COONAMBLE","2NBC - NARWEE","2NIM FM 102.3 - NIMBIN","2NSB - CHATSWOOD","2NUR - NEWCASTLE","2NVR - NAMBUCCA HEADS","2OCB - ORANGE","2PMQ - PORT MACQUARIE","2QBN - QUEANBEYAN","2RDJ-FM - BURWOOD","2REM - ALBURY","2RES - WAVERLEY","2RPH - NSW COMMUNITY","2RRR - RYDE","2RSR - SYDNEY","2SEA - EDEN","2SER - SYDNEY","2SSR - SUTHERLAND","2TEN - TENTERFIELD","2UUU - NOWRA","2VOX - WOLLONGONG","2VTR - WINDSOR","2WAR FM - GILGANDRA","2WAY - PORT MACQUARIE","2WCR FM - COONABARABRAN","2WEB - BOURKE","2WKT - BOWRAL","2XX FM - CANBERRA","2YAS - YASS","2YOU - TAMWORTH","3 Rivers Radio - DUNEDOO","3BBR-FM - WARRAGUL","3BBS - BENDIGO","3BGR - BALLARAT","3BPH - BENDIGO","3CH - KYNETON","3CR - MELBOURNE","3ECB - MELBOURNE EAST","3GCR - LATROBE VALLEY","3GFM - MARYBOROUGH","3GPH - GEELONG","3GRR - ECHUCA","3HCR - OMEO","3HOT - MILDURA","3INR - MELBOURNE NORTH","3KND Kool 'N' - MELBOURNE","3MBR - MURRAYVILLE","3MBS - MELBOURNE","3MCR - MANSFIELD","3MDR - MOUNTAIN DISTRICTS","3MFM - LEONGATHA","3MGB - MALLACOOTA","3MPH - MILDURA","3NOW - MELBOURNE NORTH","3NRG - SUNBURY","3ONE - SHEPPARTON","3PBS - MELBOURNE","3PVR - PLENTY VALLEY","3REG - EAST GIPPSLAND","3RIM - MELTON","3RPC - PORTLAND","3RPH - VICTORIA COMMUNITY","3RPP - MORNINGTON","3RRR - MELBOURNE","3RUM - UPPER MURRAY","3SCB - MELBOURNE SOUTH","3SER - MELBOURNE SOUTH","3SPH - SHEPPARTON","3UGE - ALEXANDRA/EILDON","3VYV - YARRA VALLEY","3WAY - WARRNAMBOOL","3WBC - CAMBERWELL","3WPR - WANGARATTA","3WRB - MELBOURNE WEST","3WTL - BENDIGO","3ZZZ - MELBOURNE","4AAA - BRISBANE","4BAY - WYNNUM","4BCR - BUNDABERG","4BRR - GAYNDAH","4CBL - LOGAN","4CCR - CAIRNS","4CRB - GOLD COAST","4CRM - MACKAY","4DDB - TOOWOOMBA","4DDD - DALBY","4EB - BRISBANE","4FCR - HERVEY BAY","4GCR - GYMPIE","4GEM - BOWEN","4K1G - TOWNSVILLE","4MBS - BRISBANE","4MIG - MOUNT ISA","4MOB - MOUNT ISA","4MW - TORRES STRAIT","4NAG - YEPPOON","4RED - REDCLIFFE","4RPH - BRISBANE","4RRFM - CHARLEVILLE","4US - ROCKHAMPTON","4YOU - ROCKHAMPTON","4ZZZ - BRISBANE","5CCR - CEDUNA","5CST - ADELAIDE","5DDD - ADELAIDE","5EBI - ADELAIDE","5EFM - VICTOR HARBOR","5GTR - MOUNT GAMBIER","5KIX - KANGAROO ISLAND","5MBS - ADELAIDE FOOTHILLS","5PBA - SALISBURY","5RPH - ADELAIDE","5RRR - WOOMERA","5TCB - OLD BORDERTOWN","5THE - MILLICENT","5UMA - PORT AUGUSTA","5UV - ADELAIDE","5YYY - WHYALLA","6CCR - FREMANTLE","6CRA - ALBANY","6DBY - DERBY","6EBA - PERTH","6ESP - ESPERANCE","6FX - FITZROY CROSSING","6MKA - MEEKATHARRA","6NEW - NEWMAN","6NME - PERTH","6NR - PERTH","6PRK - HALLS CREEK","6RPH - PERTH","6RTR - PERTH","6SEN - PERTH","6SON - PERTH","6WR - KUNUNURRA","7DBS - WYNYARD","7HFC - HOBART","7RPH - HOBART","7WAY - LAUNCESTON","88.9 FM Richmond - CORAKI","8EAR - NHULUNBUY","8GGG - DARWIN","8KNB - DARWIN","8KTR - KATHERINE","8MAB - BORROLOOLA","90.7 SYN FM - MELBOURNE","91.9 FM - GLADSTONE","92.5 FM - BOWRAL","92.9 Voice FM - TOOWOOMBA","2NCR River FM - LISMORE","94.7 the Pulse - GEELONG","97.1 MID FM - OATLANDS","97.7 TASMAN FM - TASMAN PENINSULA","Alex FM - GOOLWA","Alive 90.5 - PARRAMATTA","Apline Radio - MOUNT BEAUTY","Apple FM - BACCHUS MARSH","Bay and Basin FM - SANCTUARY POINT","BBB FM - BAROSSA VALLEY","Beau FM - BEAUDESERT","BIR - BRISBANE","BOD FM - BREAK ODAY","Bumma Bippera - CAIRNS","Bwgcolman Radio - PALM ISLAND","CAAMA Radio - CENTRAL ZONE","CB - COOBER PEDY","City Park Radio - LAUNCESTON","Classic Hits - CABOOLTURE","CoastFM963 - GOSFORD","COW FM - CASINO","Crow FM - WONDAI","Edge FM - BEGA","Edge Radio 99.3 - HOBART","exBRACS - ALI CURUNG","exBRACS - AMATA","exBRACS - AURUKUN","exBRACS - BADU ISLAND","exBRACS - BALGO","exBRACS - BAMAGA","exBRACS - BARUNGA","exBRACS - BATHURST ISLAND","exBRACS - BEAGLE BAY","exBRACS - BESWICK","exBRACS - BOIGU ISLAND","exBRACS - BULMAN","exBRACS - COCONUT ISLAND","exBRACS - DAGURAGU","exBRACS - DARNLEY ISLAND","exBRACS - DAUAN ISLAND","exBRACS - DJARINDJIN","exBRACS - DOOMADGEE","exBRACS - ERNABELLA","exBRACS - FINKE","exBRACS - FREGON","exBRACS - GALIWINKU","exBRACS - GUNUNA","exBRACS - HERMANNSBURG","exBRACS - HOPE VALE","exBRACS - IMANPA","exBRACS - INDULKANA","exBRACS - INJINOO","exBRACS - JIGALONG","exBRACS - KALUMBURU","exBRACS - KINTORE","exBRACS - KIWIRRKURRA","exBRACS - KOWANYAMA","exBRACS - KUBIN","exBRACS - LAGRANGE","exBRACS - LAJAMANU","exBRACS - LOCKHART RIVER","exBRACS - LOOMA","exBRACS - MABUIAG ISLAND","exBRACS - MANINGRIDA","exBRACS - MILIKAPITI","exBRACS - MILINGIMBI","exBRACS - MINJILANG","exBRACS - MURRAY ISLAND","exBRACS - NEW MAPOON","exBRACS - NGUKURR","exBRACS - NUMBULWAR","exBRACS - OENPELLI","exBRACS - OOMBULGURRI","exBRACS - PALUMPA","exBRACS - PAPUNYA","exBRACS - PEPPIMENARTI","exBRACS - PMARA JUTUNTA","exBRACS - PORMPURAAW","exBRACS - PULARUMPI","exBRACS - RAMINGINING","exBRACS - SAIBAI ISLAND","exBRACS - SANTA TERESA","exBRACS - SEISIA","exBRACS - ST PAULS","exBRACS - STEPHENS ISLAND","exBRACS - SUE ISLAND","exBRACS - TJUKURLA","exBRACS - UMAGICO","exBRACS - UMBAKUMBA","exBRACS - WADEYE","exBRACS - WARMUN","exBRACS - WARRUWI","exBRACS - WINGELLINA","exBRACS - WOORABINDA","exBRACS - WUJAL WUJAL","exBRACS - YAM ISLAND","exBRACS - YANDEEARRA","exBRACS - YIRRKALA","exBRACS - YORKE ISLANDS","exBRACS - YUELAMU","exBRACS - YUENDUMU","exBRACS - YUNGNGORA","EZY FM - LITHGOW","Family FM - BRISBANE","FBi - SYDNEY","FM 96.3 - TUMUT","FM 99.7 - YARRAMAN","Fresh FM - ADELAIDE","Golden Days Radio - WAVERLEY","Great Southern FM - VICTOR HARBOR","Gulf FM - YORKE PENINSULA","Heart FM - NORTHERN MIDLANDS","Heritage FM - ARMADALE","HOBART FM 96.1 - HOBART","Hope 103.2 - SYDNEY","Huon FM - HUON VALLEY","Jazz Radio 94.1 FM - GOLD COAST","JOYFM - MELBOURNE CITY","KCR-FM - KALAMUNDA","Koori Radio - SYDNEY","Life FM - ADELAIDE","Life FM - GOLD COAST","Life FM - LATROBE VALLEY","Life FM - WAGGA WAGGA","Light FM - MELBOURNE","Lime FM - MOUNT GAMBIER","Live FM - TOWNSVILLE","Max FM - NARRABRI","Monaro FM - MONARO","Murri FM - MACKAY","Muslim Community Radio - SYDNEY","Ngarralinyi-The Listenin Place - TAREE","Noosa Community - NOOSA","OCR FM - COLAC","Opal FM - LIGHTNING RIDGE","Paradise FM - BALLINA","Phoenix FM - BENDIGO","Port Stephens FM - PORT STEPHENS","Radio 2000 - SYDNEY","Radio Five-O-Plus - GOSFORD","Radio Goolarri - BROOME","Radio KLFM - BENDIGO","Radio Metro - GOLD COAST","Radio Northern - MANLY","Radio Rhema - TAMWORTH","Radio Yesteryear - LAKE MACQUARIE","Rainbow FM - WARWICK","Rhema FM - GEELONG","RHEMA FM - GOSFORD","Rhema FM - NAMBOUR","Rhema FM - NEWCASTLE","Rhema FM 103.1 - GRAFTON","Rhema FM Wide - MARYBOROUGH","RIM FM - BOONAH","Rock FM - MORANBAH","SMART FM - SWAN HILL","Spirit FM - NARRANDERA","SportFM - FREMANTLE","Sunshine FM - NAMBOUR","SWR FM - BLACKTOWN","Tamar FM - GEORGE TOWN","Tank Radio - KEMPSEY","Territory FM - DARWIN","todayscountry94one - GOSFORD","TRAX FM - PORT PIRIE","Triple H - HORSHAM","Twin Cities FM - WANNEROO","Valley FM 95.9 - ESK","VKW - COCOS ISLANDS","Voice FM - BALLARAT","WOW FM - PENRITH","WOW FM - PORT ADELAIDE","WYN-FM - WERRIBEE","York FM - YORK"];   
+			$("#search").typeahead({source: subjects})  
+		</script>
+
+    </body>
+</html>

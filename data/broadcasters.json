@@ -1,0 +1,2529 @@
+{
+"102.1 fm - ALICE SPRINGS":{
+      "Genre" : "Local Community",
+      "Licensee" : "8CCC Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "102.1 fm"
+    },
+"103.9 triple t - TOWNSVILLE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Townsville Community Broadcasting",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "103.9 triple t"
+    },
+"105.5 ROXFM - ROXBY DOWNS":{
+      "Genre" : "Local Community",
+      "Licensee" : "105.5 ROXFM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "105.5 ROXFM"
+    },
+"1ART - CANBERRA":{
+      "Genre" : "Music",
+      "Licensee" : "ArtSound Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "1ART"
+    },
+"1CMS - CANBERRA":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Ethnic Broadcasters Council of the ACT",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "1CMS"
+    },
+"1RPH - CANBERRA":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Print Handicapped Radio of ACT Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "1RPH"
+    },
+"1VFM - TUGGERANONG":{
+      "Genre" : "Local Community",
+      "Licensee" : "Valley FM Broadcasters Association Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "1VFM"
+    },
+"1WAY FM - CANBERRA":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Canberra Christian Radio Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "1WAY FM"
+    },
+"2AAA - WAGGA WAGGA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Wagga Wagga Community Media Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2AAA"
+    },
+"2AIR - COFFS HARBOUR":{
+      "Genre" : "Local Community",
+      "Licensee" : "Coffs Coast Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2AIR"
+    },
+"2APH - ALBURY":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Vision Australia Limited",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2APH"
+    },
+"2ARM - ARMIDALE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Armidale Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2ARM"
+    },
+"2BACR FM - BANKSTOWN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Bankstown Auburn Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2BACR FM"
+    },
+"2BAY - BYRON BAY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Bay FM Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2BAY"
+    },
+"2BBB - BELLINGEN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Bellinger Community Communications",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2BBB"
+    },
+"2BCB - BATHURST":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Bathurst Christian Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2BCB"
+    },
+"2BLU - KATOOMBA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Blue Mountains Public Broadcasting Society",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2BLU"
+    },
+"2BOB - TAREE":{
+      "Genre" : "Local Community",
+      "Licensee" : "The Manning Media Co-operative Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2BOB"
+    },
+"2BR - BRAIDWOOD":{
+      "Genre" : "Local Community",
+      "Licensee" : "Braidwood FM Inc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2BR"
+    },
+"2CBD - DEEPWATER":{
+      "Genre" : "Local Community",
+      "Licensee" : "Deepwater & Districts Community FM Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2CBD"
+    },
+"2CCB - ORANGE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Canobolas Christian Broadcasters Assoc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2CCB"
+    },
+"2CHR - CESSNOCK":{
+      "Genre" : "Local Community",
+      "Licensee" : "Central Hunter Community Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2CHR"
+    },
+"2CHY - COFFS HARBOUR":{
+      "Genre" : "Music",
+      "Licensee" : "Community Media CHY Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2CHY"
+    },
+"2CUZ - BOURKE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Muda Aboriginal Corporation",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2CUZ"
+    },
+"2DCB - DUBBO":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Dubbo Christian Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2DCB"
+    },
+"2DRY - BROKEN HILL":{
+      "Genre" : "Local Community",
+      "Licensee" : "Broken Hill Community FM Assoc Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2DRY"
+    },
+"2EAR - MORUYA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Eurobodalla Access Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2EAR"
+    },
+"2GCR - GOULBURN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Goulburn Community Radio Assoc Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2GCR"
+    },
+"2GLA - FORSTER":{
+      "Genre" : "Local Community",
+      "Licensee" : "Great Lakes Area FM Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2GLA"
+    },
+"2GLF - LIVERPOOL":{
+      "Genre" : "Local Community",
+      "Licensee" : "Liverpool-Fairfield Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2GLF"
+    },
+"2HAY - HAY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Hay Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2HAY"
+    },
+"2HHH - HORNSBY":{
+      "Genre" : "Local Community",
+      "Licensee" : "2 HHH FM Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2HHH"
+    },
+"2KRR - KANDOS":{
+      "Genre" : "Local Community",
+      "Licensee" : "Kandos Rylstone Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2KRR"
+    },
+"2LIV - WOLLONGONG":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Living Sound Broadcasters Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2LIV"
+    },
+"2LVR - PARKES":{
+      "Genre" : "Local Community",
+      "Licensee" : "Lachlan Valley Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2LVR"
+    },
+"2MBS - SYDNEY":{
+      "Genre" : "Music",
+      "Licensee" : "Music Broadcasting Society of NSW",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2MBS"
+    },
+"2MCE - BATHURST":{
+      "Genre" : "Local Community",
+      "Licensee" : "Charles Sturt University",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2MCE"
+    },
+"2MCR - CAMPBELLTOWN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Macarthur Community Radio Assoc Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2MCR"
+    },
+"2MIA - GRIFFITH":{
+      "Genre" : "Local Community",
+      "Licensee" : "Griffith Community FM Assoc Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2MIA"
+    },
+"2MTM FM - COONAMBLE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Coonamble Community Radio Inc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2MTM FM"
+    },
+"2NBC - NARWEE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Narwee Baptist Community Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2NBC"
+    },
+"2NCR River FM - LISMORE":{
+      "Genre" : "Local Community",
+      "Licensee" : "North Coast Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2NCR River FM"
+    },
+"2NIM FM 102.3 - NIMBIN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Nimbin Independent Media Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2NIM FM 102.3"
+    },
+"2NSB - CHATSWOOD":{
+      "Genre" : "Local Community",
+      "Licensee" : "Northside Broadcasting Cooperative Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2NSB"
+    },
+"2NUR - NEWCASTLE":{
+      "Genre" : "Local Community",
+      "Licensee" : "The University of Newcastle",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2NUR"
+    },
+"2NVR - NAMBUCCA HEADS":{
+      "Genre" : "Local Community",
+      "Licensee" : "Radio Nambucca Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2NVR"
+    },
+"2OCB - ORANGE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Orange Community Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2OCB"
+    },
+"2PMQ - PORT MACQUARIE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Mid North Coast Christian Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2PMQ"
+    },
+"2QBN - QUEANBEYAN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Queanbeyan Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2QBN"
+    },
+"2RDJ-FM - BURWOOD":{
+      "Genre" : "Local Community",
+      "Licensee" : "RDJ-FM Community Radio Co-op Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2RDJ-FM"
+    },
+"2REM - ALBURY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Community Radio Albury Wodonga",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2REM"
+    },
+"2RES - WAVERLEY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Radio Eastern Sydney Cooperative Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2RES"
+    },
+"2RPH - NSW COMMUNITY":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Radio for the Print-Handicapped of NSW",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2RPH"
+    },
+"2RRR - RYDE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Ryde Regional Radio Cooperative Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2RRR"
+    },
+"2RSR - SYDNEY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Radio Skid Row Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2RSR"
+    },
+"2SEA - EDEN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Eden Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2SEA"
+    },
+"2SER - SYDNEY":{
+      "Genre" : "Music",
+      "Licensee" : "Sydney Educational Broadcasting Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2SER"
+    },
+"2SSR - SUTHERLAND":{
+      "Genre" : "Local Community",
+      "Licensee" : "Sutherland Shire Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2SSR"
+    },
+"2TEN - TENTERFIELD":{
+      "Genre" : "Local Community",
+      "Licensee" : "Tenterfield & District Community FM Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2TEN"
+    },
+"2UUU - NOWRA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Shoalhaven Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2UUU"
+    },
+"2VOX - WOLLONGONG":{
+      "Genre" : "Local Community",
+      "Licensee" : "Illawarra Community FM Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2VOX"
+    },
+"2VTR - WINDSOR":{
+      "Genre" : "Local Community",
+      "Licensee" : "Hawkesbury Radio Communications",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2VTR"
+    },
+"2WAR FM - GILGANDRA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Warrumbungles Community Broadcasting",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2WAR FM"
+    },
+"2WAY - PORT MACQUARIE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Hastings Community FM Radio Assoc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2WAY"
+    },
+"2WCR FM - COONABARABRAN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Warrumbungle Regional Radio Inc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2WCR FM"
+    },
+"2WEB - BOURKE":{
+      "Genre" : "Music",
+      "Licensee" : "WREB Co-operative Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2WEB"
+    },
+"2WKT - BOWRAL":{
+      "Genre" : "Local Community",
+      "Licensee" : "Highland Media Co-operative Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2WKT"
+    },
+"2XX FM - CANBERRA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Community Radio 2XX Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2XX FM"
+    },
+"2YAS - YASS":{
+      "Genre" : "Local Community",
+      "Licensee" : "Yass Community Radio Association",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2YAS"
+    },
+"2YOU - TAMWORTH":{
+      "Genre" : "Local Community",
+      "Licensee" : "Tamworth Broadcasting Society Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "2YOU"
+    },
+"3 Rivers Radio - DUNEDOO":{
+      "Genre" : "Local Community",
+      "Licensee" : "Talbragar Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3 Rivers Radio"
+    },
+"3BBR-FM - WARRAGUL":{
+      "Genre" : "Local Community",
+      "Licensee" : "West Gippsland Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3BBR-FM"
+    },
+"3BBS - BENDIGO":{
+      "Genre" : "Local Community",
+      "Licensee" : "Goldfields Community Radio Co_",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3BBS"
+    },
+"3BGR - BALLARAT":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Ballarat Gospel Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3BGR"
+    },
+"3BPH - BENDIGO":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Vision Australia Limited",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3BPH"
+    },
+"3CH - KYNETON":{
+      "Genre" : "Local Community",
+      "Licensee" : "Central Highlands Broadcasting Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3CH"
+    },
+"3CR - MELBOURNE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Community Radio Melbourne Pty",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3CR"
+    },
+"3ECB - MELBOURNE EAST":{
+      "Genre" : "Local Community",
+      "Licensee" : "Eastern Community Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3ECB"
+    },
+"3GCR - LATROBE VALLEY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Gippsland Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3GCR"
+    },
+"3GFM - MARYBOROUGH":{
+      "Genre" : "Local Community",
+      "Licensee" : "Strengthening Goldfields",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3GFM"
+    },
+"3GPH - GEELONG":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Vision Australia Limited",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3GPH"
+    },
+"3GRR - ECHUCA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Echuca Moama Broadcast Service",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3GRR"
+    },
+"3HCR - OMEO":{
+      "Genre" : "Local Community",
+      "Licensee" : "Omeo Shire Community Access",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3HCR"
+    },
+"3HOT - MILDURA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Sunraysia Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3HOT"
+    },
+"3INR - MELBOURNE NORTH":{
+      "Genre" : "Local Community",
+      "Licensee" : "Inner North East Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3INR"
+    },
+"3KND Kool 'N' - MELBOURNE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "South Eastern Indigenous Media",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3KND Kool 'N'"
+    },
+"3MBR - MURRAYVILLE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Mallee Community Broadcasters Inc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3MBR"
+    },
+"3MBS - MELBOURNE":{
+      "Genre" : "Music",
+      "Licensee" : "Music Broadcasting Society of",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3MBS"
+    },
+"3MCR - MANSFIELD":{
+      "Genre" : "Local Community",
+      "Licensee" : "Mansfield Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3MCR"
+    },
+"3MDR - MOUNTAIN DISTRICTS":{
+      "Genre" : "Local Community",
+      "Licensee" : "Mountain District Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3MDR"
+    },
+"3MFM - LEONGATHA":{
+      "Genre" : "Local Community",
+      "Licensee" : "South Gippsland Radio 3MFM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3MFM"
+    },
+"3MGB - MALLACOOTA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Mallacoota & Genoa Broadcasting",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3MGB"
+    },
+"3MPH - MILDURA":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Vision Australia Limited",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3MPH"
+    },
+"3NOW - MELBOURNE NORTH":{
+      "Genre" : "Local Community",
+      "Licensee" : "North West Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3NOW"
+    },
+"3NRG - SUNBURY":{
+      "Genre" : "Local Community",
+      "Licensee" : "3NRG Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3NRG"
+    },
+"3ONE - SHEPPARTON":{
+      "Genre" : "Local Community",
+      "Licensee" : "Goulburn Valley Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3ONE"
+    },
+"3PBS - MELBOURNE":{
+      "Genre" : "Music",
+      "Licensee" : "Progressive Broadcasting Service",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3PBS"
+    },
+"3PVR - PLENTY VALLEY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Plenty Valley Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3PVR"
+    },
+"3REG - EAST GIPPSLAND":{
+      "Genre" : "Local Community",
+      "Licensee" : "Radio East Gippsland Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3REG"
+    },
+"3RIM - MELTON":{
+      "Genre" : "Local Community",
+      "Licensee" : "3RIM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3RIM"
+    },
+"3RPC - PORTLAND":{
+      "Genre" : "Local Community",
+      "Licensee" : "3RPC Incorporated",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3RPC"
+    },
+"3RPH - VICTORIA COMMUNITY":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Vision Australia Limited",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3RPH"
+    },
+"3RPP - MORNINGTON":{
+      "Genre" : "Local Community",
+      "Licensee" : "Radio Port Phillip Association Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3RPP"
+    },
+"3RRR - MELBOURNE":{
+      "Genre" : "Music",
+      "Licensee" : "Triple R Broadcasters Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3RRR"
+    },
+"3RUM - UPPER MURRAY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Upper Murray Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3RUM"
+    },
+"3SCB - MELBOURNE SOUTH":{
+      "Genre" : "Local Community",
+      "Licensee" : "Southern Community Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3SCB"
+    },
+"3SER - MELBOURNE SOUTH":{
+      "Genre" : "Local Community",
+      "Licensee" : "South Eastern Radio Association",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3SER"
+    },
+"3SPH - SHEPPARTON":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Vision Australia Limited",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3SPH"
+    },
+"3UGE - ALEXANDRA/EILDON":{
+      "Genre" : "Local Community",
+      "Licensee" : "Upper Goulburn Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3UGE"
+    },
+"3VYV - YARRA VALLEY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Yarra Valley FM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3VYV"
+    },
+"3WAY - WARRNAMBOOL":{
+      "Genre" : "Local Community",
+      "Licensee" : "Community Radio Endeavour",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3WAY"
+    },
+"3WBC - CAMBERWELL":{
+      "Genre" : "Local Community",
+      "Licensee" : "Whitehorse Boroondara Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3WBC"
+    },
+"3WPR - WANGARATTA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Wangaratta Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3WPR"
+    },
+"3WRB - MELBOURNE WEST":{
+      "Genre" : "Local Community",
+      "Licensee" : "Western Radio Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3WRB"
+    },
+"3WTL - BENDIGO":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Central Victorian Gospel Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3WTL"
+    },
+"3ZZZ - MELBOURNE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Ethnic Community Broadcasting",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "3ZZZ"
+    },
+"4AAA - BRISBANE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Brisbane Indigenous Media",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4AAA"
+    },
+"4BAY - WYNNUM":{
+      "Genre" : "Local Community",
+      "Licensee" : "Bayside Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4BAY"
+    },
+"4BCR - BUNDABERG":{
+      "Genre" : "Local Community",
+      "Licensee" : "Bundy FM Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4BCR"
+    },
+"4BRR - GAYNDAH":{
+      "Genre" : "Local Community",
+      "Licensee" : "Central Burnett Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4BRR"
+    },
+"4CBL - LOGAN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Radio Logan Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4CBL"
+    },
+"4CCR - CAIRNS":{
+      "Genre" : "Local Community",
+      "Licensee" : "Cairns Community Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4CCR"
+    },
+"4CRB - GOLD COAST":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Gold Coast Christian & Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4CRB"
+    },
+"4CRM - MACKAY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Community Radio Association",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4CRM"
+    },
+"4DDB - TOOWOOMBA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Darling Downs Broadcasting Society",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4DDB"
+    },
+"4DDD - DALBY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Dalby Broadcasting Association Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4DDD"
+    },
+"4EB - BRISBANE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Ethnic Broadcasting Association of",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4EB"
+    },
+"4FCR - HERVEY BAY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Fraser Coast Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4FCR"
+    },
+"4GCR - GYMPIE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Cooloola Christian Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4GCR"
+    },
+"4GEM - BOWEN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Bowen Community Broadcasting",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4GEM"
+    },
+"4K1G - TOWNSVILLE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Townsville Aboriginal and Islander",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4K1G"
+    },
+"4MBS - BRISBANE":{
+      "Genre" : "Music",
+      "Licensee" : "Music Broadcasting Society of",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4MBS"
+    },
+"4MIG - MOUNT ISA":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Mount Isa Christian Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4MIG"
+    },
+"4MOB - MOUNT ISA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Mount Isa Aboriginal Media",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4MOB"
+    },
+"4MW - TORRES STRAIT":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Islanders Media",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4MW"
+    },
+"4NAG - YEPPOON":{
+      "Genre" : "Local Community",
+      "Licensee" : "NAG Radio Broadcasting",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4NAG"
+    },
+"4RED - REDCLIFFE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Moreton Media Group Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4RED"
+    },
+"4RPH - BRISBANE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Queensland Radio for the Print",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4RPH"
+    },
+"4RRFM - CHARLEVILLE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Bidjara Media & Broadcasting",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4RRFM"
+    },
+"4US - ROCKHAMPTON":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Central Queensland Aboriginal",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4US"
+    },
+"4YOU - ROCKHAMPTON":{
+      "Genre" : "Local Community",
+      "Licensee" : "Capricorn Community Radio 4 YOU",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4YOU"
+    },
+"4ZZZ - BRISBANE":{
+      "Genre" : "Music",
+      "Licensee" : "Creative Broadcasters Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "4ZZZ"
+    },
+"5CCR - CEDUNA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Ceduna Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5CCR"
+    },
+"5CST - ADELAIDE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Southern and Western Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5CST"
+    },
+"5DDD - ADELAIDE":{
+      "Genre" : "Music",
+      "Licensee" : "Progressive Music Broadcasting",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5DDD"
+    },
+"5EBI - ADELAIDE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Ethnic Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5EBI"
+    },
+"5EFM - VICTOR HARBOR":{
+      "Genre" : "Local Community",
+      "Licensee" : "Encounter FM Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5EFM"
+    },
+"5GTR - MOUNT GAMBIER":{
+      "Genre" : "Local Community",
+      "Licensee" : "South East Community Access",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5GTR"
+    },
+"5KIX - KANGAROO ISLAND":{
+      "Genre" : "Local Community",
+      "Licensee" : "Kangaroo Island Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5KIX"
+    },
+"5MBS - ADELAIDE FOOTHILLS":{
+      "Genre" : "Music",
+      "Licensee" : "Music Broadcasting Society of",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5MBS"
+    },
+"5PBA - SALISBURY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Para Broadcasters Association Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5PBA"
+    },
+"5RPH - ADELAIDE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Vision Australia Limited",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5RPH"
+    },
+"5RRR - WOOMERA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Woomera Access Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5RRR"
+    },
+"5TCB - OLD BORDERTOWN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Tatiara Community FM",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5TCB"
+    },
+"5THE - MILLICENT":{
+      "Genre" : "Local Community",
+      "Licensee" : "Millicent Community Access Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5THE"
+    },
+"5UMA - PORT AUGUSTA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Umeewarra Aboriginal Media",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5UMA"
+    },
+"5UV - ADELAIDE":{
+      "Genre" : "Music",
+      "Licensee" : "University of Adelaide",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5UV"
+    },
+"5YYY - WHYALLA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Whyalla FM Public Broadcasting",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "5YYY"
+    },
+"6CCR - FREMANTLE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Creative Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6CCR"
+    },
+"6CRA - ALBANY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Albany Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6CRA"
+    },
+"6DBY - DERBY":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Derby Media Aboriginal Corporation",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6DBY"
+    },
+"6EBA - PERTH":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Multicultural Radio & TV Association",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6EBA"
+    },
+"6ESP - ESPERANCE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Esperance Sonshine Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6ESP"
+    },
+"6FX - FITZROY CROSSING":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Wangki Yupurnanupurru Aboriginal",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6FX"
+    },
+"6MKA - MEEKATHARRA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Meeka FM Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6MKA"
+    },
+"6NEW - NEWMAN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Newman Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6NEW"
+    },
+"6NME - PERTH":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Peedac Pty Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6NME"
+    },
+"6NR - PERTH":{
+      "Genre" : "Music",
+      "Licensee" : "Curtin University of Technology",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6NR"
+    },
+"6PRK - HALLS CREEK":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Puranyangu-Rangka Kerrem",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6PRK"
+    },
+"6RPH - PERTH":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Foundation for Information Radio of",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6RPH"
+    },
+"6RTR - PERTH":{
+      "Genre" : "Music",
+      "Licensee" : "Arts Radio Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6RTR"
+    },
+"6SEN - PERTH":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Capital Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6SEN"
+    },
+"6SON - PERTH":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Good News Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6SON"
+    },
+"6WR - KUNUNURRA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Waringarri Media Aboriginal",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "6WR"
+    },
+"7DBS - WYNYARD":{
+      "Genre" : "Local Community",
+      "Licensee" : "Coastal FM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "7DBS"
+    },
+"7HFC - HOBART":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Hope Foundation Communicators",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "7HFC"
+    },
+"7RPH - HOBART":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "RPH Print Radio Tasmania Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "7RPH"
+    },
+"7WAY - LAUNCESTON":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Launceston Christian Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "7WAY"
+    },
+"88.9 FM Richmond - CORAKI":{
+      "Genre" : "Local Community",
+      "Licensee" : "Community Radio Coraki Assoc Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "88.9 FM Richmond"
+    },
+"8EAR - NHULUNBUY":{
+      "Genre" : "Local Community",
+      "Licensee" : "8-EAR Community Radio Inc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "8EAR"
+    },
+"8GGG - DARWIN":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Darwin Christian Broadcasters Assoc Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "8GGG"
+    },
+"8KNB - DARWIN":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Radio Larrakia Association Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "8KNB"
+    },
+"8KTR - KATHERINE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Katherine Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "8KTR"
+    },
+"8MAB - BORROLOOLA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Mabunji Aboriginal Resource",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "8MAB"
+    },
+"90.7 SYN FM - MELBOURNE":{
+      "Genre" : "Music",
+      "Licensee" : "Student Youth Network Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "90.7 SYN FM"
+    },
+"91.9 FM - GLADSTONE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Gladstone and District Christian",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "91.9 FM"
+    },
+"92.5 FM - BOWRAL":{
+      "Genre" : "Music",
+      "Licensee" : "MVH FM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "92.5 FM"
+    },
+"92.9 Voice FM - TOOWOOMBA":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Toowoomba Christian Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "92.9 Voice FM"
+    },
+"94.7 the Pulse - GEELONG":{
+      "Genre" : "Local Community",
+      "Licensee" : "Geelong Ethnic Communities",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "94.7 the Pulse"
+    },
+"97.1 MID FM - OATLANDS":{
+      "Genre" : "Local Community",
+      "Licensee" : "Southern Midlands Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "97.1 MID FM"
+    },
+"97.7 TASMAN FM - TASMAN PENINSULA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Tasman Community Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "97.7 TASMAN FM"
+    },
+"Alex FM - GOOLWA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Radio Alexandrina (Alex FM)",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Alex FM"
+    },
+"Alive 90.5 - PARRAMATTA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Cumberland Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Alive 90.5"
+    },
+"Apline Radio - MOUNT BEAUTY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Kiewa Valley Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Apline Radio"
+    },
+"Apple FM - BACCHUS MARSH":{
+      "Genre" : "Local Community",
+      "Licensee" : "Bacchus Marsh Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Apple FM"
+    },
+"Bay and Basin FM - SANCTUARY POINT":{
+      "Genre" : "Local Community",
+      "Licensee" : "Bay and Basin Community Resources",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Bay and Basin FM"
+    },
+"BBB FM - BAROSSA VALLEY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Barossa Broadcasting Board Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "BBB-FM"
+    },
+"Beau FM - BEAUDESERT":{
+      "Genre" : "Local Community",
+      "Licensee" : "Beaudesert Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Beau FM"
+    },
+"BIR - BRISBANE":{
+      "Genre" : "Music",
+      "Licensee" : "Brisbane Interactive Radio Group",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "BIR"
+    },
+"BOD FM - BREAK ODAY":{
+      "Genre" : "Local Community",
+      "Licensee" : "BOD FM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "BOD FM"
+    },
+"Bumma Bippera - CAIRNS":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Bumma Bippera Media Aboriginal &",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Bumma Bippera"
+    },
+"Bwgcolman Radio - PALM ISLAND":{
+      "Genre" : "Local Community",
+      "Licensee" : "Queensland Police-Citizens Youth",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Bwgcolman Radio"
+    },
+"CAAMA Radio - CENTRAL ZONE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Central Australian Aboriginal Media Assoc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "CAAMA Radio"
+    },
+"CB - COOBER PEDY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Dusty Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "CB"
+    },
+"City Park Radio - LAUNCESTON":{
+      "Genre" : "Local Community",
+      "Licensee" : "Launceston Community FM Group",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "City Park Radio"
+    },
+"Classic Hits - CABOOLTURE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Caboolture Community FM Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Classic Hits"
+    },
+"CoastFM963 - GOSFORD":{
+      "Genre" : "Local Community",
+      "Licensee" : "Central Coast Community FM Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "CoastFM963"
+    },
+"COW FM - CASINO":{
+      "Genre" : "Local Community",
+      "Licensee" : "Casinos Own Wireless Association Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "COW FM"
+    },
+"Crow FM - WONDAI":{
+      "Genre" : "Local Community",
+      "Licensee" : "Community Radio of Wondai",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Crow FM"
+    },
+"Edge FM - BEGA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Bega Access Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Edge FM"
+    },
+"Edge Radio 99.3 - HOBART":{
+      "Genre" : "Music",
+      "Licensee" : "Tasmanian Youth Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Edge Radio 99.3"
+    },
+"exBRACS - ALI CURUNG":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Barkly Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - AMATA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Amata Community Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - AURUKUN":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Aurukun Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - BADU ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - BALGO":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Wirrimanu Aboriginal Corporation",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - BAMAGA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Northern Peninsula Area Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - BARUNGA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Roper Gulf Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - BATHURST ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Tiwi Islands Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - BEAGLE BAY":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Pilbara and Kimberley Aboriginal",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - BESWICK":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Roper Gulf Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - BOIGU ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - BULMAN":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Roper Gulf Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - COCONUT ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - DAGURAGU":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Victoria Daly Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - DARNLEY ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - DAUAN ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - DJARINDJIN":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Djarindjin Aboriginal Corporation",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - DOOMADGEE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Doomadgee Aboriginal Shire",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - ERNABELLA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Ernabella Community Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - FINKE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "MacDonnell Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - FREGON":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Kaltijiti Community Aboriginal",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - GALIWINKU":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "East Arnhem Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - GUNUNA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Mornington Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - HERMANNSBURG":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "MacDonnell Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - HOPE VALE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Hope Vale Aboriginal Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - IMANPA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "MacDonnell Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - INDULKANA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Indulkana Community Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - INJINOO":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Northern Peninsula Area Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - JIGALONG":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Jigalong Community Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - KALUMBURU":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Kalumburu Aboriginal Corporation",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - KINTORE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "MacDonnell Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - KIWIRRKURRA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Kiwirrkurra Council Aboriginal",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - KOWANYAMA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Kowanyama Aboriginal Shire",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - KUBIN":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - LAGRANGE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Bidyadanga Aboriginal Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - LAJAMANU":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Central Desert Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - LOCKHART RIVER":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Lockhart River Aboriginal Shire",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - LOOMA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Looma Community Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - MABUIAG ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - MANINGRIDA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "West Arnhem Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - MILIKAPITI":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Tiwi Islands Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - MILINGIMBI":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "East Arnhem Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - MINJILANG":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "West Arnhem Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - MURRAY ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - NEW MAPOON":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Northern Peninsula Area Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - NGUKURR":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Roper Gulf Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - NUMBULWAR":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Roper Gulf Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - OENPELLI":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "West Arnhem Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - OOMBULGURRI":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Oombulgurri Association Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - PALUMPA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Victoria Daly Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - PAPUNYA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "MacDonnell Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - PEPPIMENARTI":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Victoria Daly Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - PMARA JUTUNTA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Central Desert Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - PORMPURAAW":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Pormpuraaw Aboriginal Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - PULARUMPI":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Tiwi Islands Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - RAMINGINING":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "East Arnhem Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - SAIBAI ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - SANTA TERESA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "MacDonnell Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - SEISIA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Northern Peninsula Area Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - ST PAULS":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - STEPHENS ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - SUE ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - TJUKURLA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Tjukurla Community Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - UMAGICO":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Northern Peninsula Area Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - UMBAKUMBA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "East Arnhem Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - WADEYE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Victoria Daly Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - WARMUN":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Warmun Community (Turkey Creek)",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - WARRUWI":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "West Arnhem Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - WINGELLINA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Irrunytju Community Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - WOORABINDA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Woorabinda Aboriginal Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - WUJAL WUJAL":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Wujal Wujal Aboriginal Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - YAM ISLAND":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - YANDEEARRA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Mugarinya Community Association",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - YIRRKALA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "East Arnhem Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - YORKE ISLANDS":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Torres Strait Island Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - YUELAMU":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Central Desert Shire Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - YUENDUMU":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Warlpiri Media Association Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"exBRACS - YUNGNGORA":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Yungngora Community Council",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "exBRACS"
+    },
+"EZY FM - LITHGOW":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Lithgow Community Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "EZY FM"
+    },
+"Family FM - BRISBANE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Family Radio Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Family FM"
+    },
+"FBi - SYDNEY":{
+      "Genre" : "Music",
+      "Licensee" : "Free Broadcast Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "FBi"
+    },
+"FM 96.3 - TUMUT":{
+      "Genre" : "Local Community",
+      "Licensee" : "Montreal Community Theatre Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "FM 96.3"
+    },
+"FM 99.7 - YARRAMAN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Yarraman & District Historical",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "FM 99.7"
+    },
+"Fresh FM - ADELAIDE":{
+      "Genre" : "Music",
+      "Licensee" : "Fresh Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Fresh FM"
+    },
+"Golden Days Radio - WAVERLEY":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Golden Days Radio for Senior",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Golden Days Radio"
+    },
+"Great Southern FM - VICTOR HARBOR":{
+      "Genre" : "Local Community",
+      "Licensee" : "Great Southern FM Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Great Southern FM"
+    },
+"Gulf FM - YORKE PENINSULA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Peninsula Community Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Gulf FM"
+    },
+"Heart FM - NORTHERN MIDLANDS":{
+      "Genre" : "Local Community",
+      "Licensee" : "Northern Midlands Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Heart FM"
+    },
+"Heritage FM - ARMADALE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Heritage FM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Heritage FM"
+    },
+"HOBART FM 96.1 - HOBART":{
+      "Genre" : "Local Community",
+      "Licensee" : "Hobart FM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "HOBART FM 96.1"
+    },
+"Hope 103.2 - SYDNEY":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Hope Media Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Hope 103.2"
+    },
+"Huon FM - HUON VALLEY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Radio Geeveston Youth Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Huon FM"
+    },
+"Jazz Radio 94.1 FM - GOLD COAST":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Jazz Radio Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Jazz Radio 94.1 FM"
+    },
+"JOYFM - MELBOURNE CITY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Joy Melbourne Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "JOYFM"
+    },
+"KCR-FM - KALAMUNDA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Kalamunda Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "KCR-FM"
+    },
+"Koori Radio - SYDNEY":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Gadigal Information Service Aboriginal",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Koori Radio"
+    },
+"Life FM - ADELAIDE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Christian Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Life FM"
+    },
+"Life FM - GOLD COAST":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Christian Air Broadcasters Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Life FM"
+    },
+"Life FM - LATROBE VALLEY":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Gippsland Christian Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Life FM"
+    },
+"Life FM - WAGGA WAGGA":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Riverina Christian Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Life FM"
+    },
+"Light FM - MELBOURNE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Light FM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Light FM"
+    },
+"Lime FM - MOUNT GAMBIER":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "South East Christian Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Lime FM"
+    },
+"Live FM - TOWNSVILLE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Townsville Christian Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Live FM"
+    },
+"Max FM - NARRABRI":{
+      "Genre" : "Local Community",
+      "Licensee" : "Narrabri Shire Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Max FM"
+    },
+"Monaro FM - MONARO":{
+      "Genre" : "Local Community",
+      "Licensee" : "Monaro Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Monaro FM"
+    },
+"Murri FM - MACKAY":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Mackay & District Aboriginal &",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Murri FM"
+    },
+"Muslim Community Radio - SYDNEY":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Muslim Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Muslim Community Radio"
+    },
+"Ngarralinyi-The Listenin Place - TAREE":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Mid North Coast Indigenous Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Ngarralinyi-The Listenin Place"
+    },
+"Noosa Community - NOOSA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Noosa District Community FM Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Noosa Community"
+    },
+"OCR FM - COLAC":{
+      "Genre" : "Local Community",
+      "Licensee" : "OCR FM Inc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "OCR FM"
+    },
+"Opal FM - LIGHTNING RIDGE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Lightning Ridge Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Opal FM"
+    },
+"Paradise FM - BALLINA":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Paradise FM Community Radio Assoc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Paradise FM"
+    },
+"Phoenix FM - BENDIGO":{
+      "Genre" : "Local Community",
+      "Licensee" : "Central Victorian Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Phoenix FM"
+    },
+"Port Stephens FM - PORT STEPHENS":{
+      "Genre" : "Local Community",
+      "Licensee" : "Port Stephens FM Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Port Stephens FM"
+    },
+"Radio 2000 - SYDNEY":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Multicultural Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Radio 2000"
+    },
+"Radio Five-O-Plus - GOSFORD":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Five-O-Plus Public Radio Assoc Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Radio Five-O-Plus"
+    },
+"Radio Goolarri - BROOME":{
+      "Genre" : "Aboriginal & Torres Strait Islander",
+      "Licensee" : "Broome Aboriginal Media",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Radio Goolarri"
+    },
+"Radio KLFM - BENDIGO":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Radio KLFM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Radio KLFM"
+    },
+"Radio Metro - GOLD COAST":{
+      "Genre" : "Music",
+      "Licensee" : "Radio Metro Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Radio Metro"
+    },
+"Radio Northern - MANLY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Manly-Warringah Media Cooperative Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Radio Northern"
+    },
+"Radio Rhema - TAMWORTH":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Peel Valley Christian Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Radio Rhema"
+    },
+"Radio Yesteryear - LAKE MACQUARIE":{
+      "Genre" : "Music",
+      "Licensee" : "Radio Yesteryear Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Radio Yesteryear"
+    },
+"Rainbow FM - WARWICK":{
+      "Genre" : "Local Community",
+      "Licensee" : "Warwick Community FM Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Rainbow FM"
+    },
+"Rhema FM - GEELONG":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Geelong Gospel Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Rhema FM"
+    },
+"RHEMA FM - GOSFORD":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Gosford Christian Broadcasters Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "RHEMA FM"
+    },
+"Rhema FM - NAMBOUR":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Sunshine Coast Christian",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Rhema FM"
+    },
+"Rhema FM - NEWCASTLE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Newcastle Christian Broadcasters Ltd",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Rhema FM"
+    },
+"Rhema FM 103.1 - GRAFTON":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Clarence Valley Christian Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Rhema FM 103.1"
+    },
+"Rhema FM Wide - MARYBOROUGH":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Wide Bay Christian Broadcasters",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Rhema FM Wide"
+    },
+"RIM FM - BOONAH":{
+      "Genre" : "Local Community",
+      "Licensee" : "Scenic Rim Broadcasting",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "RIM FM"
+    },
+"Rock FM - MORANBAH":{
+      "Genre" : "Local Community",
+      "Licensee" : "Rock FM Association Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Rock FM"
+    },
+"SMART FM - SWAN HILL":{
+      "Genre" : "Local Community",
+      "Licensee" : "Swan Hill and District Community",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "SMART FM"
+    },
+"Spirit FM - NARRANDERA":{
+      "Genre" : "Local Community",
+      "Licensee" : "Narrandera District Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Spirit FM"
+    },
+"SportFM - FREMANTLE":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Western Sports Media Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "SportFM"
+    },
+"Sunshine FM - NAMBOUR":{
+      "Genre" : "Specific Interest",
+      "Licensee" : "Sunshine FM Radio Association Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Sunshine FM"
+    },
+"SWR FM - BLACKTOWN":{
+      "Genre" : "Local Community",
+      "Licensee" : "SWRFM Community Media Assoc Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "SWR FM"
+    },
+"Tamar FM - GEORGE TOWN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Tamar FM Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Tamar FM"
+    },
+"Tank Radio - KEMPSEY":{
+      "Genre" : "Local Community",
+      "Licensee" : "Macleay Valley Community FM Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Tank Radio"
+    },
+"Territory FM - DARWIN":{
+      "Genre" : "Local Community",
+      "Licensee" : "Charles Darwin University",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Territory FM"
+    },
+"todayscountry94one - GOSFORD":{
+      "Genre" : "Music",
+      "Licensee" : "Coast Community Broadcasters Inc",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "todayscountry94one"
+    },
+"TRAX FM - PORT PIRIE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Pirie Community Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "TRAX FM"
+    },
+"Triple H - HORSHAM":{
+      "Genre" : "Local Community",
+      "Licensee" : "Horsham & District Community FM",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Triple H"
+    },
+"Twin Cities FM - WANNEROO":{
+      "Genre" : "Local Community",
+      "Licensee" : "Wanneroo Joondalup Regional",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Twin Cities FM"
+    },
+"Valley FM 95.9 - ESK":{
+      "Genre" : "Local Community",
+      "Licensee" : "Brisbane River Valley Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Valley FM 95.9"
+    },
+"VKW - COCOS ISLANDS":{
+      "Genre" : "Local Community",
+      "Licensee" : "6CKI 'Voice of the Cocos (Keeling)",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "VKW"
+    },
+"Voice FM - BALLARAT":{
+      "Genre" : "Local Community",
+      "Licensee" : "Ballarat Community FM Radio",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "Voice FM"
+    },
+"WOW FM - PENRITH":{
+      "Genre" : "Local Community",
+      "Licensee" : "Way Out West Fine Music Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "WOW FM"
+    },
+"WOW FM - PORT ADELAIDE":{
+      "Genre" : "Local Community",
+      "Licensee" : "Way Out West Broadcasters Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "WOW FM"
+    },
+"WYN-FM - WERRIBEE":{
+      "Genre" : "Local Community",
+      "Licensee" : "WYN-FM Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "WYN-FM"
+    },
+"York FM - YORK":{
+      "Genre" : "Local Community",
+      "Licensee" : "York Community Radio Inc.",
+      "Staff" : 10,
+      "Volunteers" : 100,
+      "Callsign" : "York FM"
+    }
+}
